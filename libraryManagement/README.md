@@ -114,7 +114,7 @@ com.example.librarymanagement
 2. Убедиться, что указаны корректные логин/пароль в `application.properties`
 3. Собрать проект с помощью Maven
 4. Запустить `LibraryManagementApplication`
-5. Перейти на `[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)` для тестирования
+5. Перейти на [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html) для тестирования
 
 ## Другие детали
 
